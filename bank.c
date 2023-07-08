@@ -24,9 +24,9 @@ void insert()
 	long long int adhar,phno;
 	printf("\n\t\tEnter the name:- ");
 	scanf("%s",temp->name);
-	printf("\n\t\tEnter the pin no.:- ");
+	printf("\n\t\tEnter the pin no:- ");
 	scanf("%d",&p_value1);
-	printf("\n\t\tRe-enter the pin no.:- ");
+	printf("\n\t\tRe-enter the pin no:- ");
 	scanf("%d",&p_value2);
 	if(p_value1!=p_value2)                  
 	{  
